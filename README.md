@@ -1,8 +1,21 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Primeros pasos. 
+-Clonar el proyecto en carpeta local.
 
-In the project directory, you can run:
+## Bases de datos.
+-En la carpeta server está el archivo mydb.sql para la construccion de la DB<br />
+-Importar el script y seguir con los siguientes pasos. 
+
+## Ejecutar el servidor
+-Acceder a la carpeta server <br />
+-ejecutar el comando node server.js ó nodemon server.js
+
+## Instrucciones: 
+-Proyecto Realizado con React JS<br />
+-Acceder a la carpeta del proyecto.<br />
+-Ejecutar el comando: npm install<br />
+-y luego npm start.
 
 ### `npm start`
 
