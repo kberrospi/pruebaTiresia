@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##Primeros pasos. 
+## Primeros pasos. 
 -Clonar el proyecto en carpeta local.
 
 ## Bases de datos.
